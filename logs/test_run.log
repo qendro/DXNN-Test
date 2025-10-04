@@ -1,0 +1,43 @@
+Time:{{2025,9,30},{23,27,51}}, RunIndex:1000, tot_runs:0 - Starting
+
+Time:{{2025,10,1},{2,49,41}}, RunIndex:2, tot_runs:1000
+
+Logs copied to checkpoint.
+
+Time:{{2025,10,1},{6,22,59}}, RunIndex:3, tot_runs:1000
+
+Logs copied to checkpoint.
+
+Time:{{2025,10,1},{9,48,40}}, RunIndex:4, tot_runs:1000
+
+Logs copied to checkpoint.
+
+Time:{{2025,10,1},{12,36,17}}, RunIndex:5, tot_runs:1000
+
+Logs copied to checkpoint.
+
+%% === Data Parameters ===
+primary_currency_pair() -> 'EURUSD1'.         % Options: 'EURUSD1', 'EURUSD1_LIVE', 'EURUSD15', 'EURUSD30', 'EURUSD60'
+data_start_index() -> 1000.                  % Options: 1-N (starting row for training data)
+data_end_index() -> 200.                     % Options: data_start_index+1 to N (ending row for training)
+benchmark_end_index() -> last.                % Options: last, or specific number (ending row for benchmark)
+market_props_start() -> 800.                 % Options: 1-N (market analysis start point)
+market_props_end() -> 200.                   % Options: market_props_start+1 to N (market analysis end)
+
+%% === Sensor Configuration - Standard Forex Trader ===
+pli_resolutions() -> [20].                   % Options: [5], [10], [20], [5,10], [10,20], [5,10,20], etc.
+pci_horizontal_resolutions() -> [90].        % Options: [10], [20], [50], [10,20], [20,50], etc.
+pci_vertical_resolutions() -> [20].          % Options: [10], [15], [20], [10,15], [15,20], etc.
+
+%% === Sensor Configuration - 1-Minute Optimized ===
+pli_1m_resolutions() -> [5,10,20].           % Options: [5], [10], [20], [5,10], [10,20], [5,10,20], [3,5,10,20]
+pci_1m_horizontal_resolutions() -> [20,30].  % Options: [10], [20], [30], [10,20], [20,30], [10,20,30]
+pci_1m_vertical_resolutions() -> [10,15].    % Options: [5], [10], [15], [5,10], [10,15], [5,10,15]
+internal_sensor_dimensions() -> 3.           % Options: 1-10 (trading state dimensions: position, profit, time)
+
+%% === Evolution Parameters ===
+specie_size_limit() -> 10.                    % Options: 1-100 (max agents per species)
+init_specie_size() -> 10.                     % Options: 1-50 (initial agents per species)
+evaluations_limit() -> 30000.                    % Options: 10-100000 (max evaluations per run)
+survival_percentage() -> 0.5.                % Options: 0.1-0.9 (percentage of agents that survive)
+tot_runs() -> 1000.  

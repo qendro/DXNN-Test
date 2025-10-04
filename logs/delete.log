@@ -1,0 +1,3206 @@
+Time:{{2025,10,3},{22,42,48}}, RunIndex:1000, tot_runs:0 - Starting
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+Agent {5.683331469377194e-10,agent} using sensors: PLI
+
+Agent {5.683331469585201e-10,agent} using sensors: PLI
+
+Agent {5.683331469424927e-10,agent} using sensors: PLI
+
+Agent {5.6833314694012e-10,agent} using sensors: PLI
+
+Agent {5.683331469562474e-10,agent} using sensors: PLI
+
+Agent {5.683331469448296e-10,agent} using sensors: PLI
+
+Agent {5.683331469540623e-10,agent} using sensors: PLI
+
+Agent {5.683331469518246e-10,agent} using sensors: PLI
+
+Agent {5.68333146960815e-10,agent} using sensors: PLI
+
+Agent {5.683331469494844e-10,agent} using sensors: PLI
+
+Agent {5.683331469471443e-10,agent} using sensors: PLI
+
+Agent {5.6833314696714e-10,agent} using sensors: PLI
+
+Agent {5.68333146962932e-10,agent} using sensors: PLI
+
+Agent {5.683331469692185e-10,agent} using sensors: PLI
+
+Agent {5.683331469712439e-10,agent} using sensors: PLI
+
+Agent {5.683331469732383e-10,agent} using sensors: PLI
+
+Agent {5.683331469752439e-10,agent} using sensors: PLI
+
+Agent {5.683331469771583e-10,agent} using sensors: PLI
+
+Agent {5.683331469650941e-10,agent} using sensors: PLI
+
+Agent {5.683331469809407e-10,agent} using sensors: PLI
+
+Agent {5.683331469790391e-10,agent} using sensors: PLI
+
+Agent {5.683331469827459e-10,agent} using sensors: PLI
+
+Agent {5.683331469881969e-10,agent} using sensors: PLI
+
+Agent {5.683331469863268e-10,agent} using sensors: PLI
+
+Agent {5.683331469899253e-10,agent} using sensors: PLI
+
+Agent {5.683331469916211e-10,agent} using sensors: PLI
+
+Agent {5.683331469933947e-10,agent} using sensors: PLI
+
+Agent {5.683331469950905e-10,agent} using sensors: PLI
+
+Agent {5.683331469968618e-10,agent} using sensors: PLI
+
+Agent {5.683331469985508e-10,agent} using sensors: PLI
+
+Agent {5.683331470001858e-10,agent} using sensors: PLI
+
+Agent {5.683331470017823e-10,agent} using sensors: PLI
+
+Agent {5.683331470032779e-10,agent} using sensors: PLI
+
+Agent {5.683331470048442e-10,agent} using sensors: PLI
+
+Agent {5.683331470064139e-10,agent} using sensors: PLI
+
+Agent {5.683331470078832e-10,agent} using sensors: PLI
+
+Agent {5.683331470107797e-10,agent} using sensors: PLI
+
+Agent {5.683331470093132e-10,agent} using sensors: PLI
+
+Agent {5.683331470122038e-10,agent} using sensors: PLI
+
+Agent {5.683331470136863e-10,agent} using sensors: PLI
+
+Agent {5.683331470177652e-10,agent} using sensors: PLI
+
+Agent {5.683331470164522e-10,agent} using sensors: PLI
+
+Agent {5.683331470208244e-10,agent} using sensors: PLI
+
+Agent {5.683331470192572e-10,agent} using sensors: PLI
+
+Agent {5.683331470150953e-10,agent} using sensors: PLI
+
+Agent {5.683331470221429e-10,agent} using sensors: PLI
+
+Agent {5.683331470233583e-10,agent} using sensors: PLI
+
+Agent {5.683331470245941e-10,agent} using sensors: PLI
+
+Agent {5.683331470264533e-10,agent} using sensors: PLI
+
+Agent {5.683331469845696e-10,agent} using sensors: PLI
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_cep
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:mutate_af
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:outsplice
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Agent {5.683331470208244e-10,agent} using sensors: PLI
+
+Agent {5.683327822717203e-10,agent} using sensors: PLI
+
+Agent {5.683331470192572e-10,agent} using sensors: PLI
+
+Agent {5.683327822762833e-10,agent} using sensors: PLI
+
+Agent {5.683327822842004e-10,agent} using sensors: PLI
+
+Agent {5.683331470177652e-10,agent} using sensors: PLI
+
+Agent {5.683331470164522e-10,agent} using sensors: PLI
+
+Agent {5.683331470107797e-10,agent} using sensors: PLI
+
+Agent {5.683327822914676e-10,agent} using sensors: PLI
+
+Agent {5.683327822979504e-10,agent} using sensors: PLI
+
+Agent {5.683331470078832e-10,agent} using sensors: PLI
+
+Agent {5.683331470064139e-10,agent} using sensors: PLI
+
+Agent {5.683327823019039e-10,agent} using sensors: PLI
+
+Agent {5.683331470017823e-10,agent} using sensors: PLI
+
+Agent {5.683327823123614e-10,agent} using sensors: PLI
+
+Agent {5.683331469985508e-10,agent} using sensors: PLI
+
+Agent {5.683331470001858e-10,agent} using sensors: PLI
+
+Agent {5.683327823069272e-10,agent} using sensors: PLI
+
+Agent {5.683331469933947e-10,agent} using sensors: PLI
+
+Agent {5.683327823221986e-10,agent} using sensors: PLI
+
+Agent {5.683331469916211e-10,agent} using sensors: PLI
+
+Agent {5.683327823265534e-10,agent} using sensors: PLI
+
+Agent {5.68332782318105e-10,agent} using sensors: PLI
+
+Agent {5.683331469899253e-10,agent} using sensors: PLI
+
+Agent {5.683327823318313e-10,agent} using sensors: PLI
+
+Agent {5.683327823398766e-10,agent} using sensors: PLI
+
+Agent {5.683331469881969e-10,agent} using sensors: PLI
+
+Agent {5.683331469863268e-10,agent} using sensors: PLI
+
+Agent {5.683327823441655e-10,agent} using sensors: PLI
+
+Agent {5.683331469845696e-10,agent} using sensors: PLI
+
+Agent {5.683327823470838e-10,agent} using sensors: PLI
+
+Agent {5.683331469790391e-10,agent} using sensors: PLI
+
+Agent {5.68332782353299e-10,agent} using sensors: PLI
+
+Agent {5.683327823516094e-10,agent} using sensors: PLI
+
+Agent {5.683331469518246e-10,agent} using sensors: PLI
+
+Agent {5.683331469692185e-10,agent} using sensors: PLI
+
+Agent {5.683327823606644e-10,agent} using sensors: PLI
+
+Agent {5.683331469448296e-10,agent} using sensors: PLI
+
+Agent {5.683327823569809e-10,agent} using sensors: PLI
+
+Agent {5.683327823639664e-10,agent} using sensors: PLI
+
+Agent {5.683327823368753e-10,agent} using sensors: PLI
+
+Agent {5.683331470264533e-10,agent} using sensors: PLI
+
+Agent {5.683327823667704e-10,agent} using sensors: PLI
+
+Agent {5.683331470233583e-10,agent} using sensors: PLI
+
+Agent {5.683327823719106e-10,agent} using sensors: PLI
+
+Agent {5.683331470150953e-10,agent} using sensors: PLI
+
+Agent {5.683331470221429e-10,agent} using sensors: PLI
+
+Agent {5.683327823763558e-10,agent} using sensors: PLI
+
+Agent {5.683331470245941e-10,agent} using sensors: PLI
+
+Agent {5.683327823693538e-10,agent} using sensors: PLI
+
+Agent {5.683331470208244e-10,agent} using sensors: PLI
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:mutate_af
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_neuron
+
+Time:{{2025,10,3},{23,18,45}}, RunIndex:2, tot_runs:1000
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+Agent {5.683324503265744e-10,agent} using sensors: PLI
+
+Agent {5.683324503313566e-10,agent} using sensors: PLI
+
+Agent {5.683324503289896e-10,agent} using sensors: PLI
+
+Agent {5.683324503241545e-10,agent} using sensors: PLI
+
+Agent {5.683324503336966e-10,agent} using sensors: PLI
+
+Agent {5.683324503360025e-10,agent} using sensors: PLI
+
+Agent {5.683324503383091e-10,agent} using sensors: PLI
+
+Agent {5.683324503405827e-10,agent} using sensors: PLI
+
+Agent {5.683324503450818e-10,agent} using sensors: PLI
+
+Agent {5.683324503473041e-10,agent} using sensors: PLI
+
+Agent {5.683324503192307e-10,agent} using sensors: PLI
+
+Agent {5.683324503536369e-10,agent} using sensors: PLI
+
+Agent {5.683324503557425e-10,agent} using sensors: PLI
+
+Agent {5.683324503515515e-10,agent} using sensors: PLI
+
+Agent {5.683324503577729e-10,agent} using sensors: PLI
+
+Agent {5.683324503216993e-10,agent} using sensors: PLI
+
+Agent {5.683324503428741e-10,agent} using sensors: PLI
+
+Agent {5.683324503597677e-10,agent} using sensors: PLI
+
+Agent {5.683324503636754e-10,agent} using sensors: PLI
+
+Agent {5.683324503655873e-10,agent} using sensors: PLI
+
+Agent {5.683324503674778e-10,agent} using sensors: PLI
+
+Agent {5.683324503693356e-10,agent} using sensors: PLI
+
+Agent {5.683324503617273e-10,agent} using sensors: PLI
+
+Agent {5.683324503494466e-10,agent} using sensors: PLI
+
+Agent {5.683324503712563e-10,agent} using sensors: PLI
+
+Agent {5.683324503730948e-10,agent} using sensors: PLI
+
+Agent {5.683324503749662e-10,agent} using sensors: PLI
+
+Agent {5.683324503785274e-10,agent} using sensors: PLI
+
+Agent {5.683324503767634e-10,agent} using sensors: PLI
+
+Agent {5.683324503802974e-10,agent} using sensors: PLI
+
+Agent {5.683324503837323e-10,agent} using sensors: PLI
+
+Agent {5.683324503820155e-10,agent} using sensors: PLI
+
+Agent {5.683324503870562e-10,agent} using sensors: PLI
+
+Agent {5.683324503933955e-10,agent} using sensors: PLI
+
+Agent {5.683324503902898e-10,agent} using sensors: PLI
+
+Agent {5.683324503949158e-10,agent} using sensors: PLI
+
+Agent {5.68332450391857e-10,agent} using sensors: PLI
+
+Agent {5.683324503978687e-10,agent} using sensors: PLI
+
+Agent {5.683324503964046e-10,agent} using sensors: PLI
+
+Agent {5.683324504035018e-10,agent} using sensors: PLI
+
+Agent {5.683324503886813e-10,agent} using sensors: PLI
+
+Agent {5.683324504007408e-10,agent} using sensors: PLI
+
+Agent {5.6833245039932e-10,agent} using sensors: PLI
+
+Agent {5.683324504087616e-10,agent} using sensors: PLI
+
+Agent {5.683324503854115e-10,agent} using sensors: PLI
+
+Agent {5.683324504021327e-10,agent} using sensors: PLI
+
+Agent {5.68332450406146e-10,agent} using sensors: PLI
+
+Agent {5.683324504048416e-10,agent} using sensors: PLI
+
+Agent {5.683324504100759e-10,agent} using sensors: PLI
+
+Agent {5.683324504074606e-10,agent} using sensors: PLI
+
+Logs copied to checkpoint.
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:mutate_weights
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_neuron
+
+Agent {5.68332450406146e-10,agent} using sensors: PLI
+
+Agent {5.683324504048416e-10,agent} using sensors: PLI
+
+Agent {5.683321098991565e-10,agent} using sensors: PLI
+
+Agent {5.6833245039932e-10,agent} using sensors: PLI
+
+Agent {5.683321099068462e-10,agent} using sensors: PLI
+
+Agent {5.683324503978687e-10,agent} using sensors: PLI
+
+Agent {5.683324504035018e-10,agent} using sensors: PLI
+
+Agent {5.683321099149286e-10,agent} using sensors: PLI
+
+Agent {5.683324503964046e-10,agent} using sensors: PLI
+
+Agent {5.683321099109511e-10,agent} using sensors: PLI
+
+Agent {5.683321099035247e-10,agent} using sensors: PLI
+
+Agent {5.683324503933955e-10,agent} using sensors: PLI
+
+Agent {5.683321099228731e-10,agent} using sensors: PLI
+
+Agent {5.68332109925773e-10,agent} using sensors: PLI
+
+Agent {5.683324503902898e-10,agent} using sensors: PLI
+
+Agent {5.68332109917626e-10,agent} using sensors: PLI
+
+Agent {5.68332450391857e-10,agent} using sensors: PLI
+
+Agent {5.683321099281713e-10,agent} using sensors: PLI
+
+Agent {5.683321099211884e-10,agent} using sensors: PLI
+
+Agent {5.683324503886813e-10,agent} using sensors: PLI
+
+Agent {5.683321099312024e-10,agent} using sensors: PLI
+
+Agent {5.683321099354502e-10,agent} using sensors: PLI
+
+Agent {5.683324503870562e-10,agent} using sensors: PLI
+
+Agent {5.683324503785274e-10,agent} using sensors: PLI
+
+Agent {5.683321099376172e-10,agent} using sensors: PLI
+
+Agent {5.683324503820155e-10,agent} using sensors: PLI
+
+Agent {5.683324503767634e-10,agent} using sensors: PLI
+
+Agent {5.683321099414802e-10,agent} using sensors: PLI
+
+Agent {5.683324503749662e-10,agent} using sensors: PLI
+
+Agent {5.68332109943228e-10,agent} using sensors: PLI
+
+Agent {5.683324503693356e-10,agent} using sensors: PLI
+
+Agent {5.683321099451011e-10,agent} using sensors: PLI
+
+Agent {5.683324503674778e-10,agent} using sensors: PLI
+
+Agent {5.683321099467186e-10,agent} using sensors: PLI
+
+Agent {5.683324503636754e-10,agent} using sensors: PLI
+
+Agent {5.683321099488049e-10,agent} using sensors: PLI
+
+Agent {5.683324503597677e-10,agent} using sensors: PLI
+
+Agent {5.683321099518331e-10,agent} using sensors: PLI
+
+Agent {5.683324503557425e-10,agent} using sensors: PLI
+
+Agent {5.683321099545608e-10,agent} using sensors: PLI
+
+Agent {5.683324503536369e-10,agent} using sensors: PLI
+
+Agent {5.68332109956173e-10,agent} using sensors: PLI
+
+Agent {5.683321099583012e-10,agent} using sensors: PLI
+
+Agent {5.683324503494466e-10,agent} using sensors: PLI
+
+Agent {5.683324503313566e-10,agent} using sensors: PLI
+
+Agent {5.683324503265744e-10,agent} using sensors: PLI
+
+Agent {5.683324503241545e-10,agent} using sensors: PLI
+
+Agent {5.683321099621481e-10,agent} using sensors: PLI
+
+Agent {5.683321099605686e-10,agent} using sensors: PLI
+
+Agent {5.683321099641194e-10,agent} using sensors: PLI
+
+Agent {5.68332450406146e-10,agent} using sensors: PLI
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:outsplice
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:outsplice
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_cpp
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Time:{{2025,10,3},{23,50,31}}, RunIndex:3, tot_runs:1000
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+Agent {5.683318347001744e-10,agent} using sensors: PLI
+
+Agent {5.683318347158383e-10,agent} using sensors: PLI
+
+Agent {5.683318347134762e-10,agent} using sensors: PLI
+
+Agent {5.68331834708177e-10,agent} using sensors: PLI
+
+Agent {5.683318347054567e-10,agent} using sensors: PLI
+
+Agent {5.683318347026582e-10,agent} using sensors: PLI
+
+Agent {5.68331834711026e-10,agent} using sensors: PLI
+
+Agent {5.683318347204663e-10,agent} using sensors: PLI
+
+Agent {5.683318347249899e-10,agent} using sensors: PLI
+
+Agent {5.683318347181672e-10,agent} using sensors: PLI
+
+Agent {5.683318347272532e-10,agent} using sensors: PLI
+
+Agent {5.683318346975593e-10,agent} using sensors: PLI
+
+Agent {5.683318347227218e-10,agent} using sensors: PLI
+
+Agent {5.683318347294757e-10,agent} using sensors: PLI
+
+Agent {5.683318347339946e-10,agent} using sensors: PLI
+
+Agent {5.683318347362574e-10,agent} using sensors: PLI
+
+Agent {5.683318347386822e-10,agent} using sensors: PLI
+
+Agent {5.683318347437812e-10,agent} using sensors: PLI
+
+Agent {5.683318347416965e-10,agent} using sensors: PLI
+
+Agent {5.683318347317076e-10,agent} using sensors: PLI
+
+Agent {5.683318347458131e-10,agent} using sensors: PLI
+
+Agent {5.683318347517057e-10,agent} using sensors: PLI
+
+Agent {5.683318347477734e-10,agent} using sensors: PLI
+
+Agent {5.683318347497018e-10,agent} using sensors: PLI
+
+Agent {5.683318347579101e-10,agent} using sensors: PLI
+
+Agent {5.683318347560287e-10,agent} using sensors: PLI
+
+Agent {5.683318347597254e-10,agent} using sensors: PLI
+
+Agent {5.68331834763272e-10,agent} using sensors: PLI
+
+Agent {5.683318347667039e-10,agent} using sensors: PLI
+
+Agent {5.683318347683789e-10,agent} using sensors: PLI
+
+Agent {5.683318347649919e-10,agent} using sensors: PLI
+
+Agent {5.683318347541604e-10,agent} using sensors: PLI
+
+Agent {5.683318347716519e-10,agent} using sensors: PLI
+
+Agent {5.683318347732428e-10,agent} using sensors: PLI
+
+Agent {5.683318347747995e-10,agent} using sensors: PLI
+
+Agent {5.683318347794605e-10,agent} using sensors: PLI
+
+Agent {5.6833183477638e-10,agent} using sensors: PLI
+
+Agent {5.683318347615242e-10,agent} using sensors: PLI
+
+Agent {5.683318347779317e-10,agent} using sensors: PLI
+
+Agent {5.683318347809501e-10,agent} using sensors: PLI
+
+Agent {5.683318347823991e-10,agent} using sensors: PLI
+
+Agent {5.683318347838355e-10,agent} using sensors: PLI
+
+Agent {5.683318347852616e-10,agent} using sensors: PLI
+
+Agent {5.683318347879729e-10,agent} using sensors: PLI
+
+Agent {5.683318347893103e-10,agent} using sensors: PLI
+
+Agent {5.683318347918806e-10,agent} using sensors: PLI
+
+Agent {5.683318347700285e-10,agent} using sensors: PLI
+
+Agent {5.68331834790603e-10,agent} using sensors: PLI
+
+Agent {5.683318347866276e-10,agent} using sensors: PLI
+
+Agent {5.683318347932536e-10,agent} using sensors: PLI
+
+Logs copied to checkpoint.
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Agent {5.683318347879729e-10,agent} using sensors: PLI
+
+Agent {5.683315152485721e-10,agent} using sensors: PLI
+
+Agent {5.683318347866276e-10,agent} using sensors: PLI
+
+Agent {5.683318347809501e-10,agent} using sensors: PLI
+
+Agent {5.683315152514735e-10,agent} using sensors: PLI
+
+Agent {5.683318347716519e-10,agent} using sensors: PLI
+
+Agent {5.683318347700285e-10,agent} using sensors: PLI
+
+Agent {5.683318347779317e-10,agent} using sensors: PLI
+
+Agent {5.683315152568389e-10,agent} using sensors: PLI
+
+Agent {5.683315152551928e-10,agent} using sensors: PLI
+
+Agent {5.683315152632337e-10,agent} using sensors: PLI
+
+Agent {5.68331515266841e-10,agent} using sensors: PLI
+
+Agent {5.683318347683789e-10,agent} using sensors: PLI
+
+Agent {5.683318347823991e-10,agent} using sensors: PLI
+
+Agent {5.683315152603538e-10,agent} using sensors: PLI
+
+Agent {5.683318347667039e-10,agent} using sensors: PLI
+
+Agent {5.683315152735668e-10,agent} using sensors: PLI
+
+Agent {5.683315152697707e-10,agent} using sensors: PLI
+
+Agent {5.683315152792943e-10,agent} using sensors: PLI
+
+Agent {5.683318347649919e-10,agent} using sensors: PLI
+
+Agent {5.683318347541604e-10,agent} using sensors: PLI
+
+Agent {5.683315152757268e-10,agent} using sensors: PLI
+
+Agent {5.683318347517057e-10,agent} using sensors: PLI
+
+Agent {5.683318347560287e-10,agent} using sensors: PLI
+
+Agent {5.683315152817772e-10,agent} using sensors: PLI
+
+Agent {5.683318347477734e-10,agent} using sensors: PLI
+
+Agent {5.683318347362574e-10,agent} using sensors: PLI
+
+Agent {5.683318347339946e-10,agent} using sensors: PLI
+
+Agent {5.683315152865725e-10,agent} using sensors: PLI
+
+Agent {5.683315152838654e-10,agent} using sensors: PLI
+
+Agent {5.683315152915747e-10,agent} using sensors: PLI
+
+Agent {5.68331515288995e-10,agent} using sensors: PLI
+
+Agent {5.683318347317076e-10,agent} using sensors: PLI
+
+Agent {5.683315152957796e-10,agent} using sensors: PLI
+
+Agent {5.683318347204663e-10,agent} using sensors: PLI
+
+Agent {5.683318347294757e-10,agent} using sensors: PLI
+
+Agent {5.683315152937101e-10,agent} using sensors: PLI
+
+Agent {5.683315152977276e-10,agent} using sensors: PLI
+
+Agent {5.683318347134762e-10,agent} using sensors: PLI
+
+Agent {5.683315152995713e-10,agent} using sensors: PLI
+
+Agent {5.683315153013552e-10,agent} using sensors: PLI
+
+Agent {5.68331834711026e-10,agent} using sensors: PLI
+
+Agent {5.68331834708177e-10,agent} using sensors: PLI
+
+Agent {5.683318347054567e-10,agent} using sensors: PLI
+
+Agent {5.683315153031727e-10,agent} using sensors: PLI
+
+Agent {5.683318346975593e-10,agent} using sensors: PLI
+
+Agent {5.683315153066363e-10,agent} using sensors: PLI
+
+Agent {5.683315153076156e-10,agent} using sensors: PLI
+
+Agent {5.683318347932536e-10,agent} using sensors: PLI
+
+Agent {5.68331515309513e-10,agent} using sensors: PLI
+
+Agent {5.683318347879729e-10,agent} using sensors: PLI
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:outsplice
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_actuator
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Time:{{2025,10,4},{0,21,19}}, RunIndex:4, tot_runs:1000
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+Agent {5.683312377430141e-10,agent} using sensors: PLI
+
+Agent {5.683312377402525e-10,agent} using sensors: PLI
+
+Agent {5.68331237748323e-10,agent} using sensors: PLI
+
+Agent {5.683312377515054e-10,agent} using sensors: PLI
+
+Agent {5.683312377375854e-10,agent} using sensors: PLI
+
+Agent {5.683312377458086e-10,agent} using sensors: PLI
+
+Agent {5.683312377630966e-10,agent} using sensors: PLI
+
+Agent {5.683312377572074e-10,agent} using sensors: PLI
+
+Agent {5.68331237754605e-10,agent} using sensors: PLI
+
+Agent {5.683312377601421e-10,agent} using sensors: PLI
+
+Agent {5.683312377658515e-10,agent} using sensors: PLI
+
+Agent {5.683312377712475e-10,agent} using sensors: PLI
+
+Agent {5.683312377683225e-10,agent} using sensors: PLI
+
+Agent {5.683312377809692e-10,agent} using sensors: PLI
+
+Agent {5.683312378098736e-10,agent} using sensors: PLI
+
+Agent {5.683312377768038e-10,agent} using sensors: PLI
+
+Agent {5.683312377788875e-10,agent} using sensors: PLI
+
+Agent {5.683312378187022e-10,agent} using sensors: PLI
+
+Agent {5.683312378274932e-10,agent} using sensors: PLI
+
+Agent {5.683312378357226e-10,agent} using sensors: PLI
+
+Agent {5.683312378229667e-10,agent} using sensors: PLI
+
+Agent {5.683312378142263e-10,agent} using sensors: PLI
+
+Agent {5.683312378393069e-10,agent} using sensors: PLI
+
+Agent {5.683312378375359e-10,agent} using sensors: PLI
+
+Agent {5.68331237833825e-10,agent} using sensors: PLI
+
+Agent {5.68331237841033e-10,agent} using sensors: PLI
+
+Agent {5.683312378319025e-10,agent} using sensors: PLI
+
+Agent {5.683312378548688e-10,agent} using sensors: PLI
+
+Agent {5.683312377741704e-10,agent} using sensors: PLI
+
+Agent {5.68331237846341e-10,agent} using sensors: PLI
+
+Agent {5.683312378480596e-10,agent} using sensors: PLI
+
+Agent {5.683312378498238e-10,agent} using sensors: PLI
+
+Agent {5.683312378564075e-10,agent} using sensors: PLI
+
+Agent {5.683312378120374e-10,agent} using sensors: PLI
+
+Agent {5.683312378076821e-10,agent} using sensors: PLI
+
+Agent {5.683312378208811e-10,agent} using sensors: PLI
+
+Agent {5.683312378165535e-10,agent} using sensors: PLI
+
+Agent {5.683312378427511e-10,agent} using sensors: PLI
+
+Agent {5.683312378252549e-10,agent} using sensors: PLI
+
+Agent {5.683312378297246e-10,agent} using sensors: PLI
+
+Agent {5.683312378445341e-10,agent} using sensors: PLI
+
+Agent {5.683312378532399e-10,agent} using sensors: PLI
+
+Agent {5.683312378595339e-10,agent} using sensors: PLI
+
+Agent {5.68331237861e-10,agent} using sensors: PLI
+
+Agent {5.683312378625106e-10,agent} using sensors: PLI
+
+Agent {5.683312378639803e-10,agent} using sensors: PLI
+
+Agent {5.683312378653437e-10,agent} using sensors: PLI
+
+Agent {5.683312378516068e-10,agent} using sensors: PLI
+
+Agent {5.683312378668543e-10,agent} using sensors: PLI
+
+Agent {5.683312378579337e-10,agent} using sensors: PLI
+
+Logs copied to checkpoint.
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:mutate_af
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_cpp
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:outsplice
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Agent {5.683312378625106e-10,agent} using sensors: PLI
+
+Agent {5.683312378595339e-10,agent} using sensors: PLI
+
+Agent {5.683308522471353e-10,agent} using sensors: PLI
+
+Agent {5.683312378564075e-10,agent} using sensors: PLI
+
+Agent {5.683308522512803e-10,agent} using sensors: PLI
+
+Agent {5.683308522553649e-10,agent} using sensors: PLI
+
+Agent {5.683312378516068e-10,agent} using sensors: PLI
+
+Agent {5.683308522597836e-10,agent} using sensors: PLI
+
+Agent {5.683312378427511e-10,agent} using sensors: PLI
+
+Agent {5.683312378445341e-10,agent} using sensors: PLI
+
+Agent {5.683308522639432e-10,agent} using sensors: PLI
+
+Agent {5.68331237841033e-10,agent} using sensors: PLI
+
+Agent {5.683308522757065e-10,agent} using sensors: PLI
+
+Agent {5.683308522710472e-10,agent} using sensors: PLI
+
+Agent {5.683312378375359e-10,agent} using sensors: PLI
+
+Agent {5.683308522675375e-10,agent} using sensors: PLI
+
+Agent {5.68331237833825e-10,agent} using sensors: PLI
+
+Agent {5.683308522785712e-10,agent} using sensors: PLI
+
+Agent {5.6833085228182e-10,agent} using sensors: PLI
+
+Agent {5.683312378229667e-10,agent} using sensors: PLI
+
+Agent {5.683312378208811e-10,agent} using sensors: PLI
+
+Agent {5.683308522847815e-10,agent} using sensors: PLI
+
+Agent {5.683312378120374e-10,agent} using sensors: PLI
+
+Agent {5.683308522882502e-10,agent} using sensors: PLI
+
+Agent {5.683312377788875e-10,agent} using sensors: PLI
+
+Agent {5.683308522907092e-10,agent} using sensors: PLI
+
+Agent {5.683312377683225e-10,agent} using sensors: PLI
+
+Agent {5.683312377601421e-10,agent} using sensors: PLI
+
+Agent {5.683312377572074e-10,agent} using sensors: PLI
+
+Agent {5.683308522976486e-10,agent} using sensors: PLI
+
+Agent {5.683308522999283e-10,agent} using sensors: PLI
+
+Agent {5.68331237754605e-10,agent} using sensors: PLI
+
+Agent {5.68330852294529e-10,agent} using sensors: PLI
+
+Agent {5.683308523049869e-10,agent} using sensors: PLI
+
+Agent {5.683312377515054e-10,agent} using sensors: PLI
+
+Agent {5.683312378668543e-10,agent} using sensors: PLI
+
+Agent {5.683308523087688e-10,agent} using sensors: PLI
+
+Agent {5.683308523172111e-10,agent} using sensors: PLI
+
+Agent {5.683308523201629e-10,agent} using sensors: PLI
+
+Agent {5.683312378653437e-10,agent} using sensors: PLI
+
+Agent {5.683312378579337e-10,agent} using sensors: PLI
+
+Agent {5.683308523145356e-10,agent} using sensors: PLI
+
+Agent {5.68331237748323e-10,agent} using sensors: PLI
+
+Agent {5.683312378548688e-10,agent} using sensors: PLI
+
+Agent {5.683308523277241e-10,agent} using sensors: PLI
+
+Agent {5.683308523229165e-10,agent} using sensors: PLI
+
+Agent {5.683308523124516e-10,agent} using sensors: PLI
+
+Agent {5.683308523253891e-10,agent} using sensors: PLI
+
+Agent {5.683312378639803e-10,agent} using sensors: PLI
+
+Agent {5.68331237861e-10,agent} using sensors: PLI
+
+Agent {5.683312378625106e-10,agent} using sensors: PLI
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:outsplice
+
+Mutation Operator:remove_bias
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_actuator
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:outsplice
+
+Mutation Operator:add_inlink
+
+Time:{{2025,10,4},{1,3,12}}, RunIndex:5, tot_runs:1000
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+S_Formats:[no_geo]
+
+Acc:[1,1]
+
+Agent {5.683304259197723e-10,agent} using sensors: PLI
+
+Agent {5.683304259317895e-10,agent} using sensors: PLI
+
+Agent {5.683304259139754e-10,agent} using sensors: PLI
+
+Agent {5.683304259434155e-10,agent} using sensors: PLI
+
+Agent {5.683304259489382e-10,agent} using sensors: PLI
+
+Agent {5.683304259596558e-10,agent} using sensors: PLI
+
+Agent {5.683304259688414e-10,agent} using sensors: PLI
+
+Agent {5.683304259745155e-10,agent} using sensors: PLI
+
+Agent {5.683304259827368e-10,agent} using sensors: PLI
+
+Agent {5.683304259258111e-10,agent} using sensors: PLI
+
+Agent {5.683304259546649e-10,agent} using sensors: PLI
+
+Agent {5.683304259876315e-10,agent} using sensors: PLI
+
+Agent {5.68330425937729e-10,agent} using sensors: PLI
+
+Agent {5.683304259637593e-10,agent} using sensors: PLI
+
+Agent {5.683304260010257e-10,agent} using sensors: PLI
+
+Agent {5.683304259921325e-10,agent} using sensors: PLI
+
+Agent {5.68330425996359e-10,agent} using sensors: PLI
+
+Agent {5.683304260096352e-10,agent} using sensors: PLI
+
+Agent {5.683304260180984e-10,agent} using sensors: PLI
+
+Agent {5.683304260135936e-10,agent} using sensors: PLI
+
+Agent {5.683304260227984e-10,agent} using sensors: PLI
+
+Agent {5.683304259786295e-10,agent} using sensors: PLI
+
+Agent {5.683304260270536e-10,agent} using sensors: PLI
+
+Agent {5.683304260373076e-10,agent} using sensors: PLI
+
+Agent {5.683304260417449e-10,agent} using sensors: PLI
+
+Agent {5.68330426005182e-10,agent} using sensors: PLI
+
+Agent {5.683304260460091e-10,agent} using sensors: PLI
+
+Agent {5.683304260322571e-10,agent} using sensors: PLI
+
+Agent {5.683304260543055e-10,agent} using sensors: PLI
+
+Agent {5.683304260574156e-10,agent} using sensors: PLI
+
+Agent {5.683304260510844e-10,agent} using sensors: PLI
+
+Agent {5.683304260634721e-10,agent} using sensors: PLI
+
+Agent {5.68330426060395e-10,agent} using sensors: PLI
+
+Agent {5.68330426067111e-10,agent} using sensors: PLI
+
+Agent {5.683304260707128e-10,agent} using sensors: PLI
+
+Agent {5.683304260741889e-10,agent} using sensors: PLI
+
+Agent {5.6833042607724e-10,agent} using sensors: PLI
+
+Agent {5.683304260806262e-10,agent} using sensors: PLI
+
+Agent {5.683304260864368e-10,agent} using sensors: PLI
+
+Agent {5.683304260893479e-10,agent} using sensors: PLI
+
+Agent {5.683304260834355e-10,agent} using sensors: PLI
+
+Agent {5.683304260920405e-10,agent} using sensors: PLI
+
+Agent {5.683304260950934e-10,agent} using sensors: PLI
+
+Agent {5.683304260982736e-10,agent} using sensors: PLI
+
+Agent {5.68330426100961e-10,agent} using sensors: PLI
+
+Agent {5.683304261035418e-10,agent} using sensors: PLI
+
+Agent {5.683304261061811e-10,agent} using sensors: PLI
+
+Agent {5.683304261090483e-10,agent} using sensors: PLI
+
+Agent {5.683304261142855e-10,agent} using sensors: PLI
+
+Agent {5.683304261114201e-10,agent} using sensors: PLI
+
+Logs copied to checkpoint.
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:remove_bias
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_bias
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_neuron
+
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_outlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_inlink
+
+Mutation Operator:add_sensor
+
+add_sensor/1
+DEBUG: About to attempt sensor mutation for agent
+Mutation Operator:add_neuron
+
+Agent {5.683298603623218e-10,agent} using sensors: PLI
+
+Agent {5.683304261114201e-10,agent} using sensors: PLI
+
+Agent {5.683298603667627e-10,agent} using sensors: PLI
+
+Agent {5.683304260893479e-10,agent} using sensors: PLI
+
+Agent {5.683304260920405e-10,agent} using sensors: PLI
+
+Agent {5.683298603745926e-10,agent} using sensors: PLI
+
+Agent {5.683304260834355e-10,agent} using sensors: PLI
+
+Agent {5.683298603869821e-10,agent} using sensors: PLI
+
+Agent {5.683304260806262e-10,agent} using sensors: PLI
+
+Agent {5.683304260741889e-10,agent} using sensors: PLI
+
+Agent {5.683298603940116e-10,agent} using sensors: PLI
+
+Agent {5.68330426067111e-10,agent} using sensors: PLI
+
+Agent {5.683304260707128e-10,agent} using sensors: PLI
+
+Agent {5.68330426060395e-10,agent} using sensors: PLI
+
+Agent {5.68329860407082e-10,agent} using sensors: PLI
+
+Agent {5.683298603822928e-10,agent} using sensors: PLI
+
+Agent {5.683304260322571e-10,agent} using sensors: PLI
+
+Agent {5.683298604303667e-10,agent} using sensors: PLI
+
+Agent {5.683298604106405e-10,agent} using sensors: PLI
+
+Agent {5.683298604233367e-10,agent} using sensors: PLI
+
+Agent {5.683298604403621e-10,agent} using sensors: PLI
+
+Agent {5.683304260417449e-10,agent} using sensors: PLI
+
+Agent {5.683298604447078e-10,agent} using sensors: PLI
+
+Agent {5.683304260270536e-10,agent} using sensors: PLI
+
+Agent {5.683304260180984e-10,agent} using sensors: PLI
+
+Agent {5.683298604483639e-10,agent} using sensors: PLI
+
+Agent {5.683298604180068e-10,agent} using sensors: PLI
+
+Agent {5.683304260510844e-10,agent} using sensors: PLI
+
+Agent {5.683304260135936e-10,agent} using sensors: PLI
+
+Agent {5.683298604028036e-10,agent} using sensors: PLI
+
+Agent {5.683298604369749e-10,agent} using sensors: PLI
+
+Agent {5.683298604536914e-10,agent} using sensors: PLI
+
+Agent {5.683304260373076e-10,agent} using sensors: PLI
+
+Agent {5.68330426100961e-10,agent} using sensors: PLI
+
+Agent {5.683304259827368e-10,agent} using sensors: PLI
+
+Agent {5.683304259546649e-10,agent} using sensors: PLI
+
+Agent {5.683298604610441e-10,agent} using sensors: PLI
+
+Agent {5.683304259876315e-10,agent} using sensors: PLI
+
+Agent {5.683298604722364e-10,agent} using sensors: PLI
+
+Agent {5.68330425937729e-10,agent} using sensors: PLI
+
+Agent {5.683298604683869e-10,agent} using sensors: PLI
+
+Agent {5.683298604760652e-10,agent} using sensors: PLI
+
+Agent {5.683304259197723e-10,agent} using sensors: PLI
+
+Agent {5.683304259258111e-10,agent} using sensors: PLI
+
+Agent {5.683304261090483e-10,agent} using sensors: PLI
+
+Agent {5.683298604865116e-10,agent} using sensors: PLI
+
+Agent {5.683298604940391e-10,agent} using sensors: PLI
+
+Agent {5.683304261142855e-10,agent} using sensors: PLI
+
+Agent {5.683298604794354e-10,agent} using sensors: PLI
+
+Agent {5.683298604572864e-10,agent} using sensors: PLI
+
